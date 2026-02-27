@@ -1,4 +1,5 @@
 # 🔍 Buscador de Palabras por Patrones
+## 1.3 Logic & Nested
 
 Este proyecto implementa un **buscador avanzado de palabras** sobre un **diccionario local**
 (ampliable por el usuario), usando un **lenguaje expresivo de patrones** diseñado para
